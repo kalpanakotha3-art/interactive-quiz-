@@ -1,4 +1,5 @@
 # 🎯 Interactive Quiz Platform
+
 Fun & Responsive Quiz App - Built with HTML, CSS & JavaScript
 
 ### ✨ Features
@@ -8,7 +9,7 @@ Fun & Responsive Quiz App - Built with HTML, CSS & JavaScript
 - Cool Animations 🎨
 
 ### 🚀 Live Demo
-Coming Soon - Enable GitHub Pages!
+👉 Play Now: https://kalpanakotha3-art.github.io/interactive-quiz-/
 
 ### 👩‍💻 Built By
 Kalpana Kotha
